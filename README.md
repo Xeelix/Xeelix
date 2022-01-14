@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Xeelix
+- 👀 I’m interested in JavaSript, Swift, C#, Python
+- 🌱 I’m currently learning Swift UI
